@@ -23,7 +23,7 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "00_intro.md"
     },
     "finish": {
       "text": "finish.md"

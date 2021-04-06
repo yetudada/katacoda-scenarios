@@ -7,22 +7,22 @@
     "steps": [
       {
         "title": "Install Kedro",
-        "text": "01-install-kedro.md"
+        "text": "01_install_kedro.md"
       },
       {
         "title": "Create a new project",
-        "text": "02-create-new-project.md"
+        "text": "02_create_new_project.md"
       },
       {
         "title": "Install Project Dependencies",
-        "text": "03-install-project-dependencies.md"
+        "text": "03_install_project_dependencies.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "00_intro.md"
     },
     "finish": {
-      "text": "finish.md"
+      "text": "04_finish.md"
     }
   },
   "environment": {
