@@ -2,7 +2,7 @@
   "title": "Install and setup Kedro",
   "description": "Install Kedro and setup your first project.",
   "difficulty": "Beginner",
-  "time": "5",
+  "time": "5 min",
   "details": {
     "steps": [
       {
@@ -19,7 +19,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "credits": "https://kedro.readthedocs.io/en/stable/02_get_started/02_install.html"
     },
     "finish": {
       "text": "finish.md"
