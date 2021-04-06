@@ -19,8 +19,7 @@
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "credits": "https://kedro.readthedocs.io/en/stable/02_get_started/02_install.html"
+      "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"

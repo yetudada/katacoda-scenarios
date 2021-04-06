@@ -1,4 +1,3 @@
-In this lesson we install Kedro, and create a Kedro project.
+In this lesson we install Kedro and create a Kedro project.
 
-Our aim is to show how to install Kedro for the [virtual environment](https://kedro.readthedocs.io/en/stable/02_get_started/01_prerequisites.html) we are currently in, and start a new project with
- Kedro.
+Our aim is to show how to [install Kedro](https://kedro.readthedocs.io/en/stable/02_get_started/02_install.html), assuming we are in a [virtual environment](https://kedro.readthedocs.io/en/stable/02_get_started/01_prerequisites.html), and [start a new project with Kedro](https://kedro.readthedocs.io/en/stable/02_get_started/04_new_project.html).
