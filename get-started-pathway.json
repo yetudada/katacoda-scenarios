@@ -3,9 +3,14 @@
   "description": "Learn the basics of Kedro by setting up a project and creating a data processing pipeline.",
   "courses": [
     {
-      "course_id": "01-setup",
+      "course_id": "01-set-up-project",
       "title": "Install and setup Kedro",
       "description": "Install Kedro and setup your first project."
+    },
+    {
+      "course_id": "02-set-up-data",
+      "title": "Set up the data",
+      "description": "We discuss the data set-up phase, which is the second part of the standard development workflow."
     }
   ]
 }

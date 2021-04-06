@@ -6,16 +6,16 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Install Kedro",
+        "text": "01-install-kedro.md"
       },
       {
-        "title": "Step 2",
-        "text": "step2.md"
+        "title": "Create a new project",
+        "text": "02-create-new-project.md"
       },
       {
-        "title": "Step 3",
-        "text": "step3.md"
+        "title": "Install Project Dependencies",
+        "text": "03-install-project-dependencies.md"
       }
     ],
     "intro": {
