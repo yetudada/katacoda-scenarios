@@ -11,8 +11,6 @@ You will be asked to enter each of the following variables in turn. Once you hav
  - **Python package:** A name for the Python package name in your project (short, all-lowercase) e.g.`get_started
  `{{execute}}
  
-The output lists the directory in which to find the project and enter the project folder:
-`cd get-started`{{execute}}
+The output lists the directory in which to find the project and enter the project folder: `cd get-started`{{execute}}
 
-Have a look at your project template with: 
-`ls .`{{execute}}
+Have a look at your project template with: `ls .`{{execute}}
