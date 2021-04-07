@@ -10,7 +10,7 @@ pip install kedro
 kedro info
 
 # Create a new Kedro project called "Get Started"
-kedro new --config config.yml
+kedro new --config "./assets/config.yml"
 
 # Change the project directory
 cd get-started
@@ -19,8 +19,5 @@ cd get-started
 kedro install
 
 # Print out done
-echo "done"
-
-# Clear screen
-clear
+echo "Done"
 

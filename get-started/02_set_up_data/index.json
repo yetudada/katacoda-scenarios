@@ -28,6 +28,14 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "config.yml",
+          "target": "02_set_up_data"
+        }
+      ]
     }
   },
   "environment": {
