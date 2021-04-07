@@ -1,5 +1,3 @@
-# Install Kedro
-
 To install Kedro from the Python Package Index (PyPI) simply run:
 
 `pip install kedro`{{execute}}

@@ -1,5 +1,3 @@
-# Install project dependencies
-
 Specifying a project’s dependencies in Kedro makes it easier for others to run your project; it avoids version conflicts by use of the same Python packages.
 
 The generic project template bundles some typical dependencies, in `get-started/src/requirements.txt`{{open}}.

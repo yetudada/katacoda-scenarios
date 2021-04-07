@@ -1,5 +1,3 @@
-# Create a new project
-
 Once you have [installed Kedro](./02_install.md), you can create a new, empty project by answering a series of questions.
 
 Create a new project in your current working directory: `kedro new`{{execute}}
