@@ -20,7 +20,7 @@
     ],
     "intro": {
       "text": "00_intro.md",
-      "background": "background.sh"
+      "foreground": "background.sh"
     },
     "finish": {
       "text": "04_finish.md"
