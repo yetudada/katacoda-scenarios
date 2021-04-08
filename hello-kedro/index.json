@@ -1,0 +1,35 @@
+{
+  "title": "A \"Hello Kedro!\" Example",
+  "description": "It is time to introduce the most basic elements of Kedro. ",
+  "difficulty": "Beginner",
+  "time": "5 min",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "background": "background.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "hello_kedro.py",
+          "target": "hello-kedro"
+        }
+      ]
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "python:3.8"
+  }
+}
