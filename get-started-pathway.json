@@ -11,6 +11,11 @@
       "course_id": "02_set_up_data",
       "title": "Set up the data",
       "description": "We discuss the data set-up phase, which is the second part of the standard development workflow."
+    },
+    {
+      "course_id": "03_create_pipeline",
+      "title": "Create a pipeline",
+      "description": "We create a data processing pipeline together."
     }
   ]
 }
