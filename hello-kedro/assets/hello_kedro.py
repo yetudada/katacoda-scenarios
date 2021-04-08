@@ -2,9 +2,6 @@ from kedro.io import DataCatalog, MemoryDataSet
 from kedro.pipeline import node, Pipeline
 from kedro.runner import SequentialRunner
 
-# Prepare a data catalog
-data_catalog = DataCatalog({"my_salutation": MemoryDataSet()})
-
 # Prepare first node
 def return_greeting():
     return "Hello"
@@ -23,6 +20,9 @@ join_statements_node = node(
 
 # Assemble nodes into a pipeline
 pipeline = Pipeline([return_greeting_node, join_statements_node])
+
+# Prepare a data catalog
+data_catalog = DataCatalog({"my_salutation": MemoryDataSet()})
 
 # Create a runner to run the pipeline
 runner = SequentialRunner()
