@@ -7,6 +7,4 @@ while [ ! -f /opt/.backgroundfinished ]; do sleep 2; done
 
 cd get-started
 
-kedro
-
-echo "done"
+kedro info
