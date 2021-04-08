@@ -6,16 +6,17 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "An Introduction to Kedro",
+        "text": "01_run_hello_kedro.md.md"
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "background": "background.sh"
+      "text": "00_intro.md",
+      "background": "background.sh",
+      "foreground": "foreground.sh"
     },
     "finish": {
-      "text": "finish.md"
+      "text": "02_finish.md"
     },
     "assets": {
       "host01": [
@@ -27,7 +28,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "vscode-terminal-split"
   },
   "backend": {
     "imageid": "python:3.8"
