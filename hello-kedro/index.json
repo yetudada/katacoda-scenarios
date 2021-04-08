@@ -7,7 +7,7 @@
     "steps": [
       {
         "title": "An Introduction to Kedro",
-        "text": "01_run_hello_kedro.md.md"
+        "text": "01_run_hello_kedro.md"
       }
     ],
     "intro": {
