@@ -6,20 +6,16 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Install dataset dependencies",
+        "text": "01_installing_dependencies.md"
       },
       {
-        "title": "Step 2",
-        "text": "step2.md"
+        "title": "Register datasets in the Data Catalog",
+        "text": "02_register_data.md"
       },
       {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
+        "title": "Explore data",
+        "text": "03_explore_data.md"
       }
     ],
     "intro": {
@@ -27,7 +23,7 @@
       "foreground": "init.sh"
     },
     "finish": {
-      "text": "finish.md"
+      "text": "04_finish.md"
     },
     "assets": {
       "host01": [
@@ -36,7 +32,7 @@
           "target": "02_set_up_data"
         },
         {
-          "file": "iris.csv",
+          "file": "titanic.csv",
           "target": "02_set_up_data"
         }
       ]
