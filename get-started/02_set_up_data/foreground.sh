@@ -5,4 +5,8 @@ echo "Waiting to complete Kedro project setup"
 # Wait until background.sh is finished
 while [ ! -f /opt/.backgroundfinished ]; do sleep 2; done
 
+cd get-started
+
+kedro
+
 echo "done"
