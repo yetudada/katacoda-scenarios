@@ -9,10 +9,10 @@ pip install kedro==0.17.2 && pip install pandas==1.2.3
 # Create a new Kedro project called "Get Started"
 kedro new --config "./02_set_up_data/config.yml"
 
-## Change to the project directory
+# Change to the project directory
 cd get-started
 
-## Install project dependencies
+# Install project dependencies
 kedro install
 
 # Print out done
