@@ -16,4 +16,4 @@ cd get-started
 kedro install
 
 # Print out done
-echo "Done"  >> /opt/.backgroundfinished
+echo "done"  >> /opt/.backgroundfinished

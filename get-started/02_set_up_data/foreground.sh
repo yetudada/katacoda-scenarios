@@ -9,4 +9,4 @@ done
 
 kedro info
 
-echo "Done"
+echo "done"
