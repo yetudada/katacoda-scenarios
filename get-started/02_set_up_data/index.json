@@ -34,6 +34,10 @@
         {
           "file": "config.yml",
           "target": "02_set_up_data"
+        },
+        {
+          "file": "iris.csv",
+          "target": "02_set_up_data"
         }
       ]
     }
