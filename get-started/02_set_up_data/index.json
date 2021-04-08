@@ -10,11 +10,11 @@
         "text": "01_installing_dependencies.md"
       },
       {
-        "title": "Register datasets in the Data Catalog",
+        "title": "Register the dataset",
         "text": "02_register_data.md"
       },
       {
-        "title": "Explore data",
+        "title": "Explore the data",
         "text": "03_explore_data.md"
       }
     ],
