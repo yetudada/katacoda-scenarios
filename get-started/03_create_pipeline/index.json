@@ -1,0 +1,56 @@
+{
+  "title": "Create a pipeline",
+  "description": "We create a data processing pipeline together.",
+  "difficulty": "Beginner",
+  "time": "10 min",
+  "details": {
+    "steps": [
+      {
+        "title": "Install pipeline dependencies",
+        "text": "01_installing_dependencies.md"
+      },
+      {
+        "title": "Create pipeline blueprints",
+        "text": "02_create_pipeline_blueprints.md"
+      },
+      {
+        "title": "Create the data processing pipeline",
+        "text": "03_create_data_processing.md"
+      },
+      {
+        "title": "Create the logistic regression pipeline",
+        "text": "04_create_logistic_regression.md"
+      },
+      {
+        "title": "Join pipelines",
+        "text": "05_join_pipelines.md"
+      }
+    ],
+    "intro": {
+      "text": "00_intro.md",
+      "background": "background.sh",
+      "foreground": "foreground.sh"
+    },
+    "finish": {
+      "text": "06_finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "config.yml",
+          "target": "02_set_up_data"
+        },
+        {
+          "file": "titanic.csv",
+          "target": "02_set_up_data"
+        }
+      ]
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "python:3.8"
+  }
+}
