@@ -9,7 +9,7 @@ To save the `titanic` dataset, register the `csv` dataset by adding this snippet
 ```
 preprocessed_titanic:
   type: "pandas.CSVDataSet"
-  filepath: "/03_create_pipeline/preprocessed_titanic.csv"
+  filepath: "/root/03_create_pipeline/preprocessed_titanic.csv"
 ```{{copy}}
 
 Do another `kedro run` and you will see `processed_titanic.csv` created in the `/03_create_pipeline` folder.

@@ -8,7 +8,7 @@ For the `titanic` dataset, register the `csv` dataset by adding this snippet to 
 ```
 titanic:
   type: "pandas.CSVDataSet"
-  filepath: "/03_create_pipeline/titanic.csv"
+  filepath: "/root/03_create_pipeline/titanic.csv"
 ```{{copy}}
 
 ## Part 2
