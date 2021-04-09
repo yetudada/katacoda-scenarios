@@ -14,13 +14,18 @@
         "text": "02_explain_data_processing.md"
       },
       {
-        "title": "Create the logistic regression pipeline",
-        "text": "04_create_logistic_regression.md"
+        "title": "Set up for the data processing pipeline",
+        "text": "03_set_up_pipeline.md"
       },
       {
-        "title": "Join pipelines",
-        "text": "05_join_pipelines.md"
+        "title": "Create a pipeline",
+        "text": "04_create_pipeline.md"
+      },
+            {
+        "title": "Register a pipeline",
+        "text": "05_register_pipeline.md"
       }
+
     ],
     "intro": {
       "text": "00_intro.md",
