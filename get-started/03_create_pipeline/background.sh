@@ -4,7 +4,7 @@
 echo "Wait until Kedro is installed and configured."
 
 # Install Kedro
-pip install kedro[pandas.CSVDataSet]==0.17.2
+pip install "kedro[pandas.CSVDataSet]==0.17.2"
 
 # Create a new Kedro project called "Get Started"
 kedro new --config "./02_set_up_data/config.yml"
