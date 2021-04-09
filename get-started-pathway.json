@@ -10,12 +10,12 @@
     {
       "course_id": "02_set_up_data",
       "title": "Set up the data",
-      "description": "Learn how to explore data in a `kedro ipython` session."
+      "description": "Learn how to explore data in an iPython session."
     },
     {
       "course_id": "03_create_pipeline",
       "title": "Create a pipeline",
-      "description": "We create a data processing pipeline together."
+      "description": "Get acquainted with the basics of creating a data processing pipeline."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Create a pipeline",
-  "description": "We create a data processing pipeline together.",
+  "description": "Get acquainted with the basics of creating a data processing pipeline.",
   "difficulty": "Beginner",
   "time": "10 min",
   "details": {
@@ -42,10 +42,6 @@
         },
          {
           "file": "data_processing.py",
-          "target": "03_create_pipeline"
-        },
-         {
-          "file": "modelling.py",
           "target": "03_create_pipeline"
         }
       ]
