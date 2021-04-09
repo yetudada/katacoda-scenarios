@@ -1,1 +1,1 @@
-Let's go over to the next scenario which involves building a simple data pipeline to process this `titanic` set.
+Well done! The next scenario involves building a simple data pipeline to process the `titanic` set.

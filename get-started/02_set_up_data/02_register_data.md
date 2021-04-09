@@ -1,6 +1,6 @@
-Register the [`titanic`](https://github.com/FilippoBovo/production-data-science/tree/master/tutorial/a-setup/exploration/data) dataset so it can be loaded by Kedro. All Kedro projects have a `get-started/conf/base/catalog.yml`{{open}} file, and you register each dataset by adding a named entry into the `.yml` file.
+Register the `titanic` dataset so it can be loaded by Kedro. All Kedro projects have a `get-started/conf/base/catalog.yml`{{open}} file, and you register each dataset by adding a named entry into the `.yml` file.
 
-For the [`titanic`](https://github.com/FilippoBovo/production-data-science/tree/master/tutorial/a-setup/exploration/data) dataset, register the `csv` dataset by adding this snippet to `get-started/conf/base/catalog.yml`{{open}} file:
+For the `titanic` dataset, register the `csv` dataset by adding this snippet to `get-started/conf/base/catalog.yml`{{open}} file:
 
 ```
 titanic:

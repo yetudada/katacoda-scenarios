@@ -10,4 +10,5 @@ When you have finished, close the `ipython` session as follows:
 
 `exit()`{{execute}}
 
-_Note:_ We use `kedro ipython` in this example but you can use `kedro jupyter notebook` to explore and profile datasets.
+_Note:_ You use `kedro ipython` in this example but you can use `kedro jupyter notebook` to explore and profile
+ datasets.
