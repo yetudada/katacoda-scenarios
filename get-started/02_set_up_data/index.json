@@ -1,6 +1,6 @@
 {
   "title": "Set up the data",
-  "description": "We discuss the data set-up phase, which is the second part of the standard development workflow.",
+  "description": "Learn how to explore data in a `kedro ipython` session.",
   "difficulty": "Beginner",
   "time": "10 min",
   "details": {
