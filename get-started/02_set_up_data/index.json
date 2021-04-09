@@ -21,7 +21,8 @@
     "intro": {
       "text": "00_intro.md",
       "background": "background.sh",
-      "foreground": "foreground.sh"
+      "foreground": "foreground.sh",
+      "credits": "https://github.com/FilippoBovo/production-data-science/"
     },
     "finish": {
       "text": "04_finish.md"
