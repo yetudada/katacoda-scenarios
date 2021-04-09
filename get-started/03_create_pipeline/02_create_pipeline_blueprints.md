@@ -1,9 +1,10 @@
-We realise that our workflow will require two stages:
-- Data processing
-- The logistic regression
+Your [workflow was refactored](https://github.com/FilippoBovo/production-data-science/tree/master/tutorial/d-refactor#refactoring-the-notebook). You will focus on creating a pipeline with `/02_set_up_data/
+data_processing.py`{{open}}.
 
-Kedro has helper commands for creating the pipeline templates.
+You will create a pipeline template for this pipeline using: `kedro pipeline create "data_processing"`{{execute}}.
 
-Run `kedro pipeline create "data_processing"`{{execute}}
-
-And `kedro pipeline create "modelling"`{{execute}}
+The `kedro pipeline create` command creates templates for you to: 
+ - Add nodes and the pipeline in `get-started/src/pipelines`{{open}}
+ - Register datasets for the pipeline in `get-started/conf/catalog/`{{open}}
+ - Populate parameters in `get-started/conf/parameters/`{{open}}
+ - Include tests in `get-started/src/tests/pipelines`{{open}}

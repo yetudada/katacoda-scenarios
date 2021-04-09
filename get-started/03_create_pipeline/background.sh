@@ -3,11 +3,11 @@
 # Tell users that they must wait until Kedro is installed and configured
 echo "Wait until Kedro is installed and configured."
 
-# Install Kedro and pandas
-pip install kedro==0.17.2 && pip install pandas==1.2.3
+# Install Kedro
+pip install kedro[pandas.CSVDataSet]==0.17.2
 
 # Create a new Kedro project called "Get Started"
-kedro new --starter pandas-iris --config "./02_set_up_data/config.yml"
+kedro new --config "./02_set_up_data/config.yml"
 
 # Change to the project directory
 cd get-started

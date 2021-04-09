@@ -5,3 +5,5 @@ You will focus on:
 - Registering the [`titanic`](https://github.com/FilippoBovo/production-data-science/tree/master/tutorial/a-setup/exploration/data) dataset in the Data Catalog, which is the registry of all data
  sources available for use by the project
 - Exploring the data using an `ipython` session
+
+This exercise relies on a modification of [Flippo Bovo's _Production Data Science_ training](https://github.com/FilippoBovo/production-data-science).

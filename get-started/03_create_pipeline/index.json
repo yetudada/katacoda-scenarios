@@ -38,11 +38,19 @@
       "host01": [
         {
           "file": "config.yml",
-          "target": "02_set_up_data"
+          "target": "03_create_pipeline"
         },
         {
           "file": "titanic.csv",
-          "target": "02_set_up_data"
+          "target": "03_create_pipeline"
+        },
+         {
+          "file": "data_processing.py",
+          "target": "03_create_pipeline"
+        },
+         {
+          "file": "modelling.py",
+          "target": "03_create_pipeline"
         }
       ]
     }
