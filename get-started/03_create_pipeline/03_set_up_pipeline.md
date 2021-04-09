@@ -8,10 +8,8 @@ For the `titanic` dataset, register the `csv` dataset by adding this snippet to 
 ```
 titanic:
   type: "pandas.CSVDataSet"
-  filepath: "/root/02_set_up_data/titanic.csv"
+  filepath: "/03_create_pipeline/titanic.csv"
 ```{{copy}}
-
-To setup `data_processing.py` in `get-started/get_started/src/pipelines/data_processing/data_processing.py`
 
 ## Part 2
 
