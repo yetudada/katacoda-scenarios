@@ -6,16 +6,12 @@
   "details": {
     "steps": [
       {
-        "title": "Install pipeline dependencies",
-        "text": "01_installing_dependencies.md"
-      },
-      {
         "title": "Create pipeline blueprints",
-        "text": "02_create_pipeline_blueprints.md"
+        "text": "01_create_pipeline_blueprints.md"
       },
       {
-        "title": "Create the data processing pipeline",
-        "text": "03_create_data_processing.md"
+        "title": "Explain the data processing pipeline",
+        "text": "02_explain_data_processing.md"
       },
       {
         "title": "Create the logistic regression pipeline",
